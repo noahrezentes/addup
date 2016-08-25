@@ -1,2 +1,2 @@
-# addup
-A simple list-style calculator.
+# Addup!
+A minimal list-style calculator.
